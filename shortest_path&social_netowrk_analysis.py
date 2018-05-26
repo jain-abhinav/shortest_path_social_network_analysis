@@ -1,7 +1,3 @@
-#17200110 - Abhinav Jain
-#17200095 - Kunwar Madan
-#17200098 - Divya Magima
-
 import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
